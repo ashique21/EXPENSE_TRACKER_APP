@@ -68,11 +68,17 @@ You'll need to have the **Flutter SDK** installed on your machine. For help, vie
 The project follows a standard feature-first directory structure to maintain a clean and scalable codebase.
 
 lib/
+
 ├── models/         # Contains data models for expenses, budgets, etc.
+
 ├── pages/          # UI screens/pages of the app.
+
 ├── providers/      # State management logic using Provider.
+
 ├── widgets/        # Reusable UI components (buttons, cards, etc.).
+
 ├── helpers/        # Utility functions and database helpers.
+
 └── main.dart       # The main entry point of the application.
 
 ---
